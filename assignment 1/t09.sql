@@ -1,0 +1,1 @@
+SELECT memberSurname, memberForename FROM vMemberBroad WHERE broadId = 12 ORDER BY memberSurname, memberForename

@@ -1,0 +1,1 @@
+SELECT narrowDesc FROM vBroadNarrow WHERE broadId = 12 ORDER BY narrowDesc
